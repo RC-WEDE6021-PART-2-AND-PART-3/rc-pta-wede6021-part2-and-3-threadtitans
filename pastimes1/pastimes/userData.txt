@@ -1,0 +1,5 @@
+John Doe,john@gmail.com,john123,29ef52e7563626a96cea7f4b4085c124,customer,pending
+Jane Smith,jane@gmail.com,jane123,29ef52e7563626a96cea7f4b4085c124,customer,pending
+Mike Lee,mike@gmail.com,mike123,29ef52e7563626a96cea7f4b4085c124,customer,pending
+Sara Khan,sara@gmail.com,sara123,29ef52e7563626a96cea7f4b4085c124,customer,pending
+Tom Hardy,tom@gmail.com,tom123,29ef52e7563626a96cea7f4b4085c124,customer,pending
